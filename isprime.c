@@ -17,7 +17,7 @@
     return 1;
     }
 int main(){
-    int n,k;
+    int n;
     scanf("%d",&n);
     if(isprime(n))
     printf("Prime num");
